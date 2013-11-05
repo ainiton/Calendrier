@@ -1,0 +1,16 @@
+.year {
+  width : 100%;
+  text-align: center;
+  /*border : 1px solid black*/
+  /*border-collapse:collapse*/
+}
+.year th{
+  color : green;
+  width : 8.33%;
+  /*border : 1px solid gray*/
+}
+
+.weekend{
+  color : white;
+  background-color : gray;
+}
